@@ -19,11 +19,11 @@ This project is a command-line application that processes flavor rankings, calcu
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/laverickjujuan/flavor-ranker-cmd
    ```
 2. Navigate into the project directory:
    ```bash
-   cd <project-directory>
+   cd flavor-ranker-cmd
    ```
 3. Install dependencies:
    ```bash

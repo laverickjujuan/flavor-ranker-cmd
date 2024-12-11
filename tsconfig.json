@@ -12,9 +12,6 @@
     "noEmitOnError": true,
     "sourceMap": true
   },
-  "include": [
-    "src/**/*.ts", // Include all source files
-    "test/**/*.ts" // Include all test files
-  ],
+  "include": ["src/**/*.ts", "test/**/*.ts"],
   "exclude": ["node_modules"]
 }
